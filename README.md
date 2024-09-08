@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -33,7 +32,6 @@
     </style>
 </head>
 <body>
-    <h1>Antecello Pharma</h1>
     <ul>
         <li>
             <span class="link-label">LinkedIn Profile: </span>
